@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "~5.4",
+        "illuminate/support": "^4.2|~5.4",
         "imgix/imgix-php": "~1.1"
     },
     "require-dev": {
