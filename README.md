@@ -50,6 +50,12 @@ Finally, publish and update the config `config/imgix.php`:
 php artisan vendor:publish --tag=imgix
 ```
 
+Or if you use Laravel 4.x, use:
+
+```bash
+php artisan config:publish nasyrov/laravel-imgix --path="vendor/nasyrov/laravel-imgix/config"
+```
+
 ## Usage
 
 ### Facade
